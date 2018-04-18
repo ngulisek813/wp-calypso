@@ -318,6 +318,7 @@
 		.payment-box-section.selected:not( .no-stored-cards ) {
 			.payment-box-section-inner {
 				border-left: 3px solid $alert-green;
+				padding-top: 15px;
 			}
 			.checkout__new-card-fields {
 				background-color: #fafdf6;
